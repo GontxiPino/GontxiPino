@@ -59,5 +59,5 @@ Siempre estoy abierto a nuevas conexiones y oportunidades profesionales. ¡No du
 
 ---
 
-© 2024 [Tu Nombre]
+© 2024 [Gonzalo Pino]
 
