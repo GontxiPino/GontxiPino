@@ -7,18 +7,18 @@
 ### Educación y Primeros Pasos
 
 Durante más de una década, trabajé en el sector social como educador, donde desarrollé habilidades sólidas en:
-- **Comunicación**
-- **Trabajo en equipo**
-- **Adaptabilidad**
+- 💬 **Comunicación**
+- 👥 **Trabajo en equipo**
+- 🔄 **Adaptabilidad**
 
 ### Transición a la Tecnología
 
 En 2019, decidí dar un giro a mi carrera hacia la tecnología y obtuve el certificado profesional en **Confección y Publicación de Páginas Web**, donde aprendí:
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **PHP**
-- **CMS**: WordPress y Moodle
+- 💻 **HTML5**
+- 🎨 **CSS3**
+- 🚀 **JavaScript**
+- 🐘 **PHP**
+- 🖥️ **CMS**: WordPress y Moodle
 
 ### Formación Continua
 
@@ -44,10 +44,10 @@ En los últimos cuatro años, he trabajado en **GADD - Grupo GTT**, una empresa 
 
 ## Mis Habilidades
 
-- **Desarrollo Web**: HTML5, CSS3, JavaScript (ES6), PHP
-- **Frameworks**: Vue.js, WordPress, Moodle
-- **Gestión de Proyectos**: Coordinación, Adaptabilidad, Trabajo en equipo
-- **Tecnologías**: Desarrollo Frontend, Aplicaciones Multiplataforma
+- 💻 **Desarrollo Web**: HTML5, CSS3, JavaScript (ES6), PHP
+- 🛠️ **Frameworks**: Vue.js, WordPress, Moodle
+- 📊 **Gestión de Proyectos**: Coordinación, Adaptabilidad, Trabajo en equipo
+- 🖥️ **Tecnologías**: Desarrollo Frontend, Aplicaciones Multiplataforma
 
 ## Contacto
 
@@ -59,5 +59,4 @@ Siempre estoy abierto a nuevas conexiones y oportunidades profesionales. ¡No du
 
 ---
 
-© 2024 [Gonzalo Pino]
 
