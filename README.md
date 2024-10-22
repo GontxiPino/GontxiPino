@@ -45,7 +45,7 @@ En los últimos cuatro años, he trabajado en **GADD - Grupo GTT**, una empresa 
 ## Mis Habilidades
 
 - 💻 **Desarrollo Web**: HTML5, CSS3, JavaScript (ES6), PHP
-- 🛠️ **Frameworks**: Bootstrap, React, Angular, Vue
+- 🛠️ **Frameworks**: Tailwind, Bootstrap, React, Angular, Vue
 - 📊 **Gestión de Proyectos**: Coordinación, Adaptabilidad, Trabajo en equipo
 - 🖥️ **Tecnologías**: Desarrollo Frontend, Aplicaciones Multiplataforma
 
