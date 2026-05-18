@@ -122,9 +122,9 @@ Siempre estoy abierto a nuevas conexiones y oportunidades profesionales. ¡No du
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GontxiPino&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gontxipino&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+</div>
 
 
 ## Recent Blog Posts  
