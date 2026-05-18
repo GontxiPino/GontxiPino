@@ -32,6 +32,21 @@ Aplicación de planificación personal centrada en simplicidad, rendimiento y ex
 
 ---
 
+### 🎬 Series App
+Aplicación web para explorar y gestionar series de televisión mediante consumo de APIs externas.
+
+**Stack:** Vue.js · JavaScript · CSS  
+
+**Lo más relevante:**
+- Consumo de API externa
+- Renderizado dinámico de datos
+- Navegación y filtrado de contenido
+- Gestión de estado en frontend
+
+🔗 https://github.com/GontxiPino/repositorioSeries
+
+---
+
 ## ♿ Accesibilidad
 
 - HTML semántico
