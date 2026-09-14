@@ -28,7 +28,6 @@ Aplicación de planificación personal centrada en simplicidad, rendimiento y ex
 - Interfaz fluida con foco en UX
 - Enfoque progresivo hacia accesibilidad
 
-🔗 https://github.com/KariGoStudio/planly
 
 ---
 
